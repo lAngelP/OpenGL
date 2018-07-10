@@ -1,0 +1,4 @@
+AGC=false
+Telemetry=false
+top_threshold=16383
+bottom_threshold=8000
